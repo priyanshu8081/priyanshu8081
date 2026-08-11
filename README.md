@@ -143,12 +143,6 @@ An application for tracking and managing daily expenses.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshu8081&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/priyanshu8081)
-
----
-
 ## 📈 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshu8081&theme=tokyo-night)
